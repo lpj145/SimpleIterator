@@ -1,0 +1,17 @@
+{
+  "name": "MarcosDantas/SimpleIterator",
+  "description": "Iterate array, key by key, registering functions and some you want",
+  "minimum-stability": "dev",
+  "license": ["GPL-3.0+","LGPL-3.0+"],
+  "authors": [
+    {
+      "name": "Marcos Dantas",
+      "email": "marcos.adantas@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SimpleIterator\\": "src/"
+    }
+  }
+}
